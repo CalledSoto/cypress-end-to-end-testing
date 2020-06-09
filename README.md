@@ -1,33 +1,14 @@
 # PlatziPosts
 
-Proyecto de ejemplo para implementar tests en el curso de testing end-to-end con Cypress
+Sample project to implement tests in the end-to-end testing course with Cypress
 
-### Instalación
+### Installation
 
-El proyecto require 2 bases de datos de firebase una para su uso normal y otra para ejecutar los tests, cree 2 bases de datos en Firebase y obtenga las credenciales para ambas y crear los archivos `production.env` y `test.env` con la configuración de firebase para cada una de las bases de datos, hay un ejemplo del formato requerido para estos archivos en `config/example-env`.
+The project requires 2 firebase databases one for normal use and one to run tests, create 2 databases in Firebase and get the credentials for both and create the files `production.env` and` test.env` with For the firebase configuration for each of the databases, there is an example of the required format for these files in `config / example-env`.
 
-Luego
+Then
 
-``` bash
+bash
 $ npm install
 $ npm run dev
-```
-
-### Licencia
-
-Copyright 2018 Savvy Apps
-Modifications Copyright (C) 2018 Platzi
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-
+`` ''
